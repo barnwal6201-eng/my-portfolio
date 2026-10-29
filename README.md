@@ -33,19 +33,6 @@ js/
 assets/           screenshots, resume PDF, favicon
 ```
 
-## Run locally
-
-```bash
-python3 -m http.server 8000   # then open http://localhost:8000
-```
-
-## Responsive screenshots
-
-| Mobile (375px) | Tablet (768px) | Desktop (1280px) |
-| --- | --- | --- |
-| ![Mobile](screenshots/mobile-375-light.png) | ![Tablet](screenshots/tablet-768-light.png) | ![Desktop](screenshots/desktop-1280-light.png) |
-
-Mobile menu open: [`screenshots/mobile-375-menu-open.png`](screenshots/mobile-375-menu-open.png). Dark theme versions are alongside each.
 
 ## Acceptance checks
 
