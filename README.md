@@ -31,7 +31,6 @@ js/
   reveal.js       scroll reveal
   contact.js      form validation + mailto hand-off
 assets/           screenshots, resume PDF, favicon
-screenshots/      responsive proof at 375 / 768 / 1280px
 ```
 
 ## Run locally
