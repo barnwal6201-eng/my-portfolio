@@ -2,7 +2,7 @@
 
 A responsive personal portfolio: hero, About, Skills matrix, Featured projects, Experience and a Contact form. Built with semantic HTML5, modern CSS (custom properties, Flexbox, Grid) and vanilla JavaScript. No build step.
 
-**Live:** _add the deployment link here_
+**Live:** https://lalita-portfolio-smoky.vercel.app/
 
 ## Features
 
