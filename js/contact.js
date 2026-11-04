@@ -1,5 +1,4 @@
-// Contact form: inline validation, then hands the message to the visitor's
-// mail app. No backend needed, so it works on any static host.
+
 (function () {
   var form = document.getElementById("contact-form");
   var status = document.getElementById("cf-status");
